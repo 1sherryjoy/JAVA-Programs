@@ -3,7 +3,7 @@
     REG NO.CT101/F/19419/23.
      DATE:4TH FEB 2025.
 */
-*/
+
 // Employee Class
 class Employee {
     private String name;
